@@ -1,0 +1,1 @@
+{"version":3,"file":"ethereum-bridge.module.js","sourceRoot":"","sources":["../../../src/ethereum-bridge/ethereum-bridge.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AAExC,uEAAkE;AAMlE,IAAa,oBAAoB,GAAjC,MAAa,oBAAoB;CAAG,CAAA;AAAvB,oBAAoB;IAJhC,eAAM,CAAC;QACN,OAAO,EAAE,CAAC,+CAAqB,CAAC;QAChC,SAAS,EAAE,CAAC,+CAAqB,CAAC;KACnC,CAAC;GACW,oBAAoB,CAAG;AAAvB,oDAAoB"}

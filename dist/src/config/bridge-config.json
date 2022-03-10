@@ -1,0 +1,11 @@
+{
+    "interval": 10,
+    "chain1": {
+        "rpcEndpoint": "https://rinkeby.infura.io/v3/59bc544a320540a68674896a06493a4d",
+        "contractAddress": "0x15e07E8e0d3dA4b6B130f73Fc1975947c8fF95DB"
+    },
+    "chain2": {
+        "rpcEndpoint": "https://data-seed-prebsc-2-s2.binance.org:8545/",
+        "contractAddress": "0xbb58868A58389A72f2D7784151aE2E0AbA870D58"
+    }
+}

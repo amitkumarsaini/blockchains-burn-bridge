@@ -1,0 +1,1 @@
+{"version":3,"file":"burn-bridge.module.js","sourceRoot":"","sources":["../../../src/burn-bridge/burn-bridge.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,+DAA0D;AAM1D,IAAa,gBAAgB,GAA7B,MAAa,gBAAgB;CAAG,CAAA;AAAnB,gBAAgB;IAJ5B,eAAM,CAAC;QACN,OAAO,EAAE,CAAC,uCAAiB,CAAC;QAC5B,SAAS,EAAE,CAAC,uCAAiB,CAAC;KAC/B,CAAC;GACW,gBAAgB,CAAG;AAAnB,4CAAgB"}
